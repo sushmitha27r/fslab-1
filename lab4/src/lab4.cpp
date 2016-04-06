@@ -129,7 +129,7 @@ int main()
     cin>>choice;
     switch(choice)
     {
-        case 1:
+        case1:
         {
             string s1;
             //fp1.open("data2.txt",ios::out);
